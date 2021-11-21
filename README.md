@@ -1,4 +1,5 @@
 # FOODMAP in Jongro-3rd.st
+![image](https://user-images.githubusercontent.com/59683657/142772721-e4fe307c-3ca6-4244-bd19-3569bd88040b.png)
 
 Vue.js을 사용하여 종로3가의 선별된 음식점을  서비스.
 
